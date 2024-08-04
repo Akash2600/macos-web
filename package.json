@@ -34,6 +34,7 @@
     "@neodrag/svelte": "^2.0.6",
     "date-fns": "^3.6.0",
     "popmotion": "^11.0.5",
+    "sharp": "^0.33.4",
     "svelte-local-storage-store": "^0.6.4",
     "unplugin-icons": "^0.18.5"
   }
